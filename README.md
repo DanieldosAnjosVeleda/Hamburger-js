@@ -1,7 +1,7 @@
 <h1>Hamburgueria</h1>
 
 <p>Projeto de uma página SPA responsiva de uma Hamburgueria.</p>
-<p>Link da página <a href="https://hamburguer.herokuapp.com/" target="_blank">aqui</a></p>
+<p>Link da página <a  target="_blank" href="https://hamburguer.herokuapp.com/">aqui</a></p>
 
 <h2>Tecnologias utilizadas</h2>
 
